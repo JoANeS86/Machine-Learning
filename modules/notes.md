@@ -27,4 +27,24 @@ model.
 
   The three general categories of feature engineering are Selection, Transformation and Extraction.
 
+  - <ins>Class Imbalance</ins>: When a dataset has a predictor variable that contains more instances of one outcome than another.
+
+Balancing a dataset:
+
+    - Downsampling: Downsampling is the process of making the minority class represent a larger share of the whole dataset
+    simply by removing observations from the majority class. It is mostly used with datasets that are large.
+    
+    - Upsampling: Upsampling is basically the opposite of downsampling, and is done when the dataset doesn’t have a very large
+    number of observations in the first place. Instead of removing observations from the majority class, you increase the number of
+    observations in the minority class.
+
+Class rebalancing should be reserved for situations where other alternatives have been exhausted and you still are not achieving satisfactory model
+results.
+
 Continuous, Discrete, Categorical.
+
+
+
+
+
+
