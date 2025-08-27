@@ -41,9 +41,9 @@ Balancing a dataset:
 Class rebalancing should be reserved for situations where other alternatives have been exhausted and you still are not achieving satisfactory model
 results.
 
-  - <ins>Naive Bayes</ins>: A supervised classification technique based on Bayes' theorem with an assumption of independence among predictors. 
-
-  - <ins>Posterior Probability</ins>:
+  - <ins>Naive Bayes</ins>: A supervised classification technique based on Bayes' theorem with an assumption of independence among predictors.
+    
+    The model will calculate the <ins>Posterior Probability</ins> of an event, given the values of the predictor variables.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2a432c3a-294a-4fbb-99ea-103660587fee" />
