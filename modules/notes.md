@@ -49,6 +49,17 @@ results.
   <img src="https://github.com/user-attachments/assets/2a432c3a-294a-4fbb-99ea-103660587fee" />
 </p>
 
+## Module 3: Unsupervised Learning Techniques
+
+You know that the evaluation metrics you used for supervised learning models don’t apply to unsupervised learning models. This is because
+unsupervised learning model results cannot be categorized as “correct” or “incorrect.” While supervised learning models use predictor variables to
+predict a defined target variable, unsupervised learning methods have metrics that seek an underlying structure within the data. 
+
+Clustering models are a type of unsupervised learning that do this by grouping observations together. Data professionals often use inertia and
+silhouette scores to evaluate their clustering models and help them determine which groupings make sense.
+
+
+
 Continuous, Discrete, Categorical.
 
 
