@@ -172,6 +172,7 @@ When using Python to construct and test a model, we'll use the term "**fitting a
 
 # Add here the summary of "More about evaluation metrics for classification models".
 
+**ROC** curves make it easy to identify the best threshold for making a decision, and the **AUC** can help you decide which categorization method is better.
 
 #### <ins>Unsupervised learning techniques</ins>
 
